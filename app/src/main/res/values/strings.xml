@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FINETAG</string>
+
+    <string name="ob_header1">WELCOME</string>
+    <string name="ob_header2">FOTOGRAFI</string>
+    <string name="ob_header3">VIDEOGRAFI</string>
+
+
+    <string name="home">Home</string>
+    <string name="daily">Daily</string>
+    <string name="gallery">Gallery</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Profile</string>
+
+    <string name="contact">Contact and Social Media</string>
+
+    <string name="googleMapsKey">AIzaSyCEX7A2cinrxiDr1s2TDcAhsbxUMG9dCeA</string>
+</resources>
